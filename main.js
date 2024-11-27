@@ -1,4 +1,3 @@
-// Import the mysql2 package
 const mysql = require('mysql2');
 const express = require('express');
 const bodyParser = require('body-parser');
